@@ -1,0 +1,6 @@
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\bin\TimeTableManagement.dll.config
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\bin\TimeTableManagement.dll
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\bin\TimeTableManagement.pdb
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csprojResolveAssemblyReference.cache
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.dll
+E:\Asp.net Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
